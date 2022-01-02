@@ -11,3 +11,14 @@ Solution file:- Overlapping rectangles.cpp
 
 * https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/ \
 Solution file:- Count the subarrays having product less than k.cpp
+
+### Day 2
+
+* https://practice.geeksforgeeks.org/problems/run-length-encoding/1/ \
+Solution file:- Run Length Encoding.cpp
+
+* https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/ \
+Solution file:- Ugly Numbers.cpp
+
+* https://leetcode.com/problems/greatest-common-divisor-of-strings/ \
+Solution file:- Greatest Common Divisor of Strings.cpp
