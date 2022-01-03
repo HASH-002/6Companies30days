@@ -22,3 +22,14 @@ Solution file:- Ugly Numbers.cpp
 
 * https://leetcode.com/problems/greatest-common-divisor-of-strings/ \
 Solution file:- Greatest Common Divisor of Strings.cpp
+
+### Day 3
+
+* https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1 \
+Solution file:- Find the position of M-th item.cpp
+
+* https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/ \
+Solution file:- Total Decoding Messages.cpp
+
+* https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1 \
+Solution file:- Number following a pattern.cpp
