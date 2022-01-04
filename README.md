@@ -33,3 +33,14 @@ Solution file:- Total Decoding Messages.cpp
 
 * https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1 \
 Solution file:- Number following a pattern.cpp
+
+### Day 4
+
+* Find max 10 numbers in a list having 10M entries. \
+Solution file:- Max_10_Numbers.cpp
+
+* https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/ \
+Solution file:- Find_Missing_And_Repeating.cpp
+
+* https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1 \
+Solution file:- Squares_in_NxN_Chessboard.cpp
