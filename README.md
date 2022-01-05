@@ -44,3 +44,14 @@ Solution file:- Find_Missing_And_Repeating.cpp
 
 * https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1 \
 Solution file:- Squares_in_NxN_Chessboard.cpp
+
+### Day 5
+
+* https://practice.geeksforgeeks.org/problems/decode-the-string2444/1 \
+Solution file:- Decode_the_string.cpp
+
+* https://leetcode.com/problems/minimum-size-subarray-sum/ \
+Solution file:- Minimum_Size_Subarray_Sum.cpp
+
+* https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1 \
+Solution file:- Array_Pair_Sum_Divisibility_Problem.cpp
