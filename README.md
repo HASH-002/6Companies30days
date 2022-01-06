@@ -55,3 +55,14 @@ Solution file:- Minimum_Size_Subarray_Sum.cpp
 
 * https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1 \
 Solution file:- Array_Pair_Sum_Divisibility_Problem.cpp
+
+### Day 6
+
+* https://practice.geeksforgeeks.org/problems/maximum-profit4657/1 \
+Solution file:- Maximum_Profit.cpp
+
+* https://leetcode.com/problems/longest-mountain-in-array/ \
+Solution file:- Longest_Mountain_in_Array.cpp
+
+* https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/ \
+Solution file:- IPL_2021_Match_Day2.cpp
