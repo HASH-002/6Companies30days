@@ -66,3 +66,14 @@ Solution file:- Longest_Mountain_in_Array.cpp
 
 * https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/ \
 Solution file:- IPL_2021_Match_Day2.cpp
+
+### Day 7
+
+* https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/ \
+Solution file:- Brackets_in_Matrix_Chain_Multiplication.cpp
+
+* https://practice.geeksforgeeks.org/problems/phone-directory4628/1/ \
+Solution file:- Phone_directory.cpp
+
+* https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 \
+Solution file:- Maximum _of_all_subarrays_of_size_k.cpp
