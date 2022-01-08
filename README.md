@@ -77,3 +77,14 @@ Solution file:- Phone_directory.cpp
 
 * https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 \
 Solution file:- Maximum _of_all_subarrays_of_size_k.cpp
+
+### Day 8
+
+* https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1 \
+Solution file:- First_non-repeating_character_in_a_stream.cpp
+
+* https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/ \
+Solution file:- Count_ways_to_Nth_Stair.cpp
+
+* https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/ \
+Solution file:- Is_Sudoku_Valid.cpp
