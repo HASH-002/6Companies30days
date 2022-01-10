@@ -99,3 +99,14 @@ Solution file:- Serialize_and_Deserialize_a_Binary_Tree.cpp
 
 * https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/ \
 Solution file:- Column_name_from_a_given_column_number.cpp
+
+### Day 10
+
+* https://leetcode.com/problems/rotting-oranges/ \
+Solution file:- Rotting_Oranges.cpp
+
+* https://practice.geeksforgeeks.org/problems/burning-tree/1/ \
+Solution file:- Burning_Tree.cpp
+
+* https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/ \
+Solution file:- Delete_N_nodes_after_M_nodes_of_a_linked_list.cpp
