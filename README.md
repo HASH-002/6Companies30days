@@ -88,3 +88,14 @@ Solution file:- Count_ways_to_Nth_Stair.cpp
 
 * https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/ \
 Solution file:- Is_Sudoku_Valid.cpp
+
+### Day 9
+
+* https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1 \
+Solution file:- Nuts_and_Bolts_Problem.cpp
+
+* https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1 \
+Solution file:- Serialize_and_Deserialize_a_Binary_Tree.cpp
+
+* https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/ \
+Solution file:- Column_name_from_a_given_column_number.cpp
