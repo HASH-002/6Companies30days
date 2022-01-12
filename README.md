@@ -110,3 +110,14 @@ Solution file:- Burning_Tree.cpp
 
 * https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/ \
 Solution file:- Delete_N_nodes_after_M_nodes_of_a_linked_list.cpp
+
+### Day 11
+
+* https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/ \
+Solution file:- Minimum_sum_partition.cpp
+
+* https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/ \
+Solution file:- Prerequisite_Tasks.cpp
+
+* https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/ \
+Solution file:- Rotate_by_90_degree.cpp
