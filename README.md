@@ -121,3 +121,14 @@ Solution file:- Prerequisite_Tasks.cpp
 
 * https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/ \
 Solution file:- Rotate_by_90_degree.cpp
+
+### Day 12
+
+* https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/ \
+Solution file:- Spirally_traversing_a_matrix.cpp
+
+* https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1 \
+Solution file:- Stock_span_problem.cpp
+
+* https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/ \
+Solution file:- Possible_Words_From_Phone_Digits.cpp
