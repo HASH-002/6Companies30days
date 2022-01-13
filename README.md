@@ -132,3 +132,14 @@ Solution file:- Stock_span_problem.cpp
 
 * https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/ \
 Solution file:- Possible_Words_From_Phone_Digits.cpp
+
+### Day 13
+
+* https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/ \
+Solution file:- Unit_Area_of_largest_region_of_1s.cpp
+
+* https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/ \
+Solution file:- Connect_Nodes_at_Same_Level.cpp
+
+* https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/ \
+Solution file:- Count_Number_of_SubTrees_having_given_Sum.cpp
