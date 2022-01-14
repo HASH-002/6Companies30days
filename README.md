@@ -143,3 +143,14 @@ Solution file:- Connect_Nodes_at_Same_Level.cpp
 
 * https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/ \
 Solution file:- Count_Number_of_SubTrees_having_given_Sum.cpp
+
+### Day 14
+
+* https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/ \
+Solution file:- Stickler_Thief.cpp
+
+* https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/ \
+Solution file:- Generate_Binary_Numbers.cpp
+
+* https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 \
+Solution file:- Find_All_Four_Sum_Numbers.cpp
