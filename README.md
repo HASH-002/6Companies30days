@@ -154,3 +154,14 @@ Solution file:- Generate_Binary_Numbers.cpp
 
 * https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1 \
 Solution file:- Find_All_Four_Sum_Numbers.cpp
+
+### Day 15
+
+* https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1 \
+Solution file:- Bridge_edge_in_a_graph.cpp
+
+* https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/ \
+Solution file:- Minimum_steps_to_destination.cpp
+
+* https://practice.geeksforgeeks.org/problems/alien-dictionary/1/ \
+Solution file:- Alien_Dictionary.cpp
