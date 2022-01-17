@@ -165,3 +165,14 @@ Solution file:- Minimum_steps_to_destination.cpp
 
 * https://practice.geeksforgeeks.org/problems/alien-dictionary/1/ \
 Solution file:- Alien_Dictionary.cpp
+
+### Day 16
+
+* https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1 \
+Solution file:- Subarray_with_given_sum.cpp
+
+* https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/ \
+Solution file:- Longest_Arithmetic_Progression.cpp
+
+* https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/ \
+Solution file:- Number_of_distict_Words_with_k_maximum_contiguous_vowels.cpp
