@@ -187,3 +187,14 @@ Solution file:- Express_as_sum_of_power_of_natural_numbers.cpp
 
 * https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/ \
 Solution file:- Generate_Parentheses.cpp
+
+### Day 18
+
+* https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/ \
+Solution file:- Pots_of_Gold_Game.cpp
+
+* https://practice.geeksforgeeks.org/problems/implement-atoi/1/ \
+Solution file:- Implement_Atoi.cpp
+
+* https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/ \
+Solution file:- Next_higher_palindromic_number_using_the_same_set_of_digits.cpp
