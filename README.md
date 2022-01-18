@@ -176,3 +176,14 @@ Solution file:- Longest_Arithmetic_Progression.cpp
 
 * https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/ \
 Solution file:- Number_of_distict_Words_with_k_maximum_contiguous_vowels.cpp
+
+### Day 17
+
+* https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1 \
+Solution file:- Partition_Equal_Subset_Sum.cpp
+
+* https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1 \
+Solution file:- Express_as_sum_of_power_of_natural_numbers.cpp
+
+* https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/ \
+Solution file:- Generate_Parentheses.cpp
