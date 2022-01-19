@@ -198,3 +198,14 @@ Solution file:- Implement_Atoi.cpp
 
 * https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/ \
 Solution file:- Next_higher_palindromic_number_using_the_same_set_of_digits.cpp
+
+### Day 19
+
+* https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/ \
+Solution file:- Winner_of_an_election.cpp
+
+* https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1 \
+Solution file:- Amend_The_Sentence.cpp
+
+* https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/ \
+Solution file:- Leaders_in_an_array.cpp
