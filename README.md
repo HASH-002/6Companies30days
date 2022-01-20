@@ -209,3 +209,14 @@ Solution file:- Amend_The_Sentence.cpp
 
 * https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/ \
 Solution file:- Leaders_in_an_array.cpp
+
+### Day 20
+
+* https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/ \
+Solution file:- Minimum_operations_to_convert_array_A_to_B.cpp
+
+* https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/ \
+Solution file:- Smallest_range_in_K_lists.cpp
+
+* Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also. \
+Solution file:- Library_versions.cpp
