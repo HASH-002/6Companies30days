@@ -226,3 +226,9 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/ \
     Solution file:- Minimum_sum_partition.cpp
+
+-   https://practice.geeksforgeeks.org/problems/word-search/1/ \
+    Solution file:- Word_Search.cpp
+
+-   https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/ \
+    Solution file:- Find_the_missing_no_in_string.cpp
