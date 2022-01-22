@@ -232,3 +232,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/ \
     Solution file:- Find_the_missing_no_in_string.cpp
+
+### Day 22
+
+-   https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1 \
+    Solution file:- Largest_number_in_K_swaps.cpp
+
+-   https://leetcode.com/problems/split-array-largest-sum/ \
+    Solution file:- Split_Array_Largest_Sum.cpp
+
+-   https://leetcode.com/problems/find-in-mountain-array/ \
+    Solution file:- Find_in_Mountain_Array.cpp
