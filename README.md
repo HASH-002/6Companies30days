@@ -265,3 +265,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/course-schedule-ii/ \
     Solution file:- Course_Schedule_II.cpp
+
+### Day 25
+
+-   https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/ \
+    Solution file:- Minimum_Swaps_to_Arrange_a_Binary_Grid.cpp
+
+-   https://leetcode.com/problems/as-far-from-land-as-possible/ \
+    Solution file:- As_Far_from_Land_as_Possible.cpp
+
+-   https://leetcode.com/problems/koko-eating-bananas/ \
+    Solution file:- Koko_Eating_Bananas.cpp
