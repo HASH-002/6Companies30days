@@ -243,3 +243,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/find-in-mountain-array/ \
     Solution file:- Find_in_Mountain_Array.cpp
+
+### Day 23
+
+-   https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ \
+    Solution file:- Capacity_To_Ship_Packages_Within_D_Days.cpp
+
+-   https://leetcode.com/problems/number-of-boomerangs/ \
+    Solution file:- Number_of_Boomerangs.cpp
+
+-   https://leetcode.com/problems/pacific-atlantic-water-flow/ \
+    Solution file:- Pacific_Atlantic_Water_Flow.cpp
