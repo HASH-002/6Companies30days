@@ -254,3 +254,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/pacific-atlantic-water-flow/ \
     Solution file:- Pacific_Atlantic_Water_Flow.cpp
+
+### Day 24
+
+-   https://leetcode.com/problems/number-of-provinces/ \
+    Solution file:- Number_of_Provinces.cpp
+
+-   https://leetcode.com/problems/construct-quad-tree/ \
+    Solution file:- Construct_Quad_Tree.cpp
+
+-   https://leetcode.com/problems/course-schedule-ii/ \
+    Solution file:- Course_Schedule_II.cpp
