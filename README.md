@@ -287,3 +287,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/ \
     Solution file:- Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.cpp
+
+### Day 27
+
+-   https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/ \
+    Solution file:- Number_of_Unique_Paths.cpp
+
+-   https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/ \
+    Solution file:- Transform_to_Sum_Tree.cpp
+
+-   https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/?company[]=Walmart&company[]=Walmart&page=1&query=company[]Walmartpage1company[]Walmart \
+    Solution file:- Power_Of_Numbers.cpp
