@@ -276,3 +276,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/koko-eating-bananas/ \
     Solution file:- Koko_Eating_Bananas.cpp
+
+### Day 26
+
+-   https://leetcode.com/problems/path-with-maximum-probability/ \
+    Solution file:- Path_with_Maximum_Probability.cpp
+
+-   https://leetcode.com/problems/stone-game/ \
+    Solution file:- Stone_Game.cpp
+
+-   https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/ \
+    Solution file:- Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.cpp
