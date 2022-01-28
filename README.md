@@ -298,3 +298,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/?company[]=Walmart&company[]=Walmart&page=1&query=company[]Walmartpage1company[]Walmart \
     Solution file:- Power_Of_Numbers.cpp
+
+### Day 28
+
+-   https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/ \
+    Solution file:- Sorted_subsequence_of_size3.cpp
+
+-   https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/?page=2&company[]=Walmart&query=page2company[]Walmart \
+    Solution file:- Maximum_Height_Tree.cpp
+
+-   https://leetcode.com/problems/guess-number-higher-or-lower-ii/ \
+    Solution file:- Guess_Number_Higher_or_Lower_II.cpp
