@@ -320,3 +320,11 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/find-array-given-subset-sums/ \
     Solution file:- Find_Array_Given_Subset_Sums.cpp
+
+### Day 30
+
+-   https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/ \
+    Solution file:- Find_the_Kth_Largest_Integer_in_the_Array.cpp
+
+-   https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/ \
+    Solution file:- Largest_number_in_K_swaps.cpp
