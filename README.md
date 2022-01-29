@@ -309,3 +309,14 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://leetcode.com/problems/guess-number-higher-or-lower-ii/ \
     Solution file:- Guess_Number_Higher_or_Lower_II.cpp
+
+### Day 29
+
+-   https://leetcode.com/problems/generate-random-point-in-a-circle/ \
+    Solution file:- Generate_Random_Point_in_a_Circle.cpp
+
+-   https://leetcode.com/problems/maximum-performance-of-a-team/ \
+    Solution file:- Maximum_Performance_of_a_Team.cpp
+
+-   https://leetcode.com/problems/find-array-given-subset-sums/ \
+    Solution file:- Find_Array_Given_Subset_Sums.cpp
