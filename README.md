@@ -328,3 +328,6 @@ This repo contains the solution of 30days challenge given by Arsh Goyal. The lin
 
 -   https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/ \
     Solution file:- Largest_number_in_K_swaps.cpp
+
+-   https://leetcode.com/problems/divide-two-integers/ \
+    Solution file:- Divide_Two_Integers.cpp
